@@ -13,4 +13,5 @@ class SWP_DetailsTableViewCell: UITableViewCell {
     @IBOutlet weak var Withdrawal_Amount: UILabel!
     @IBOutlet weak var Returns: UILabel!
     @IBOutlet weak var Month_End: UILabel!
+    
 }

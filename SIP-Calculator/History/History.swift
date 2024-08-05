@@ -52,3 +52,4 @@ class History: NSObject {
     var SIPP_Date : String = String()
     var SIPP_Inflaction : Double = Double()
 }
+
